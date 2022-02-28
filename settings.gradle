@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "MohaView"
 include ':app'
+include ':material_moha_view'
